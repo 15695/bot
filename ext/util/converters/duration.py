@@ -1,3 +1,3 @@
 class DurationConverter:
-	async def converter(self, ctx, argument):
+	async def convert(self, ctx, argument: str):
 		pass
